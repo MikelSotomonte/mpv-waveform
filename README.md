@@ -23,3 +23,5 @@ The histogram filter is not compatible with hardware decoding. As a result, the
 default behaviour is to automatically disable any hardware decoding while the
 filter is on. This behaviour can be changed in the aforementioned `opts` array.
 ![Screenshot - video: Sprite Fright Blender Open Movie](https://cdn.discordapp.com/attachments/446054699439882250/1001900605557710888/mpv-shot0002.jpg)
+
+![Screenshot - video: Sprite Fright Blender Open Movie](https://cdn.discordapp.com/attachments/446054699439882250/1001908424646344764/mpv-shot0004.jpg)
