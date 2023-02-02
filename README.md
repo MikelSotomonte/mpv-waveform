@@ -2,7 +2,7 @@
 This [mpv](https://mpv.io/) script displays [ffmpeg video waveforms](https://trac.ffmpeg.org/wiki/WaveformMonitor) in realtime
 It's based on [this mpv histogram script](https://github.com/detuur/mpv-scripts)
 
-This script does *not*support config files,
+This script does *not* support config files,
 because of the nested options. Please edit the options
 in the `opts` array in the script itself.  
 
